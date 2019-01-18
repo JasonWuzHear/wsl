@@ -1,4 +1,4 @@
-# WSL Conf and other Setup
+# WSL Conf Setup
 
 ## Directions
 1. install docker: `./docker-setup.sh`
